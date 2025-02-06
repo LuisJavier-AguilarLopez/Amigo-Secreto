@@ -23,7 +23,7 @@ Este proyecto es una aplicación web interactiva que permite a los usuarios regi
    Cuando todos los nombres estén en la lista, presiona "Sortear Amigo".
    Se mostrará el amigo secreto seleccionado al azar.
 
-**---Comentarios---**
+## **---Comentarios---**
 Aun se pueden mejorar varias caracteristicas del mismo, por ejemplo se añidio la función de no permitir que el mismo nombre se registre, sin embargo, si se cambia una mayuscula por minuscula lo contara como un valor diferente, por ejemplo, si ponemos el nombre de "luis" y despues añadimos el nombre de "Luis", lo tomara como un registro diferente.
 Entre varias caracteristicas que aun se pueden mejorar y un codigo que puede ser aun mas reducido.
 
