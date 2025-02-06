@@ -1,7 +1,7 @@
 # Amigo-Secreto
 Este proyecto es una aplicación web interactiva que permite a los usuarios registrar nombres de amigos y realizar un sorteo aleatorio para determinar quién será el "amigo secreto".  
 
----Características---
+## ---Características---
 - Agregar nombres de amigos a una lista.
 - Validación para evitar nombres repetidos o entradas vacías.
 - Visualización dinámica de la lista de participantes.
@@ -27,7 +27,7 @@ Este proyecto es una aplicación web interactiva que permite a los usuarios regi
 Aun se pueden mejorar varias caracteristicas del mismo, por ejemplo se añidio la función de no permitir que el mismo nombre se registre, sin embargo, si se cambia una mayuscula por minuscula lo contara como un valor diferente, por ejemplo, si ponemos el nombre de "luis" y despues añadimos el nombre de "Luis", lo tomara como un registro diferente.
 Entre varias caracteristicas que aun se pueden mejorar y un codigo que puede ser aun mas reducido.
 
-📄 Licencia
+## 📄 Licencia
 Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente.
 
 
